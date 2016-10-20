@@ -1,3 +1,4 @@
+[![Build Status]In development]https://travis-ci.org/orlygur/chuck_joke
 # chuck_joke
 (T-303-HUGB, Hugbúnaðarfræði, 2016-3)
 
